@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# MongoDB data (si es local)
+mongo/
+
+# Archivos de configuración del entorno
+.env
+
+# Archivos de log
+npm-debug.log
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del IDE (por ejemplo, Visual Studio Code)
+.vscode/
+.idea/
+
+# Archivos generados por el build
+dist/
+build/
