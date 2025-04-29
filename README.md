@@ -32,7 +32,7 @@ Permite crear, editar, eliminar y mover tareas entre backlog y sprints.
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/Ruth-en/ToDoList-Api
 ```
 2. Entra en la carpeta del proyecto:
 ```
